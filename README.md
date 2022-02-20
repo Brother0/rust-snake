@@ -1,4 +1,4 @@
-# rust-snake
+# Classic snake implemented in rust
 
 Classic snake game implemented in rust. A small person project to learn rust.
 
